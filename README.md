@@ -1,2 +1,2 @@
-# basi_C_programs
+# basic_C_programs
 Repo full of basic C programs.
